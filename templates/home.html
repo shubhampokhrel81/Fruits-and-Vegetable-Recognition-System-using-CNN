@@ -1,0 +1,12 @@
+{% extends 'layout.html'%}
+{% block body %}
+    <div class="jumbotron text-center">
+        <h1>Welcome to app</h1>
+        <p class="lead"> This is my first App.</p>
+        <form id = "upload-form" action="{{url_for('upload')}}" method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" accept="image/*" multiple>
+            <input type="submit">
+
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,11 @@
+{% extends 'layout.html'%}
+{% block body %}
+    <div class="jumbutton text-center">
+        <h1>About us </h1>
+        <p class="lead"> About us.</p>
+        <P>file saved</P>
+    </div>
+	{% for r in results %}
+        <li class="list-group-item">{{loop.index}} prediction : {{r}}</li>
+    {% endfor%}
+{% endblock %}

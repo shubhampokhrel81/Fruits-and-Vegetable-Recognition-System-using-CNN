@@ -1,0 +1,11 @@
+{% extends 'layout.html'%}
+{% block body %}
+    <div class="jumbutton text-center">
+        <h1>Welcome to app</h1>
+        <p class="lead"> This is my first Article.</p>
+    </div>
+    <h1>Articles</h1>
+    {% for article in articles %}
+        <li class="list-group-item"><a href="article/{{article.id}}">{{article.title}}</a></li>
+    {% endfor%}
+{% endblock %}
