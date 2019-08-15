@@ -68,8 +68,12 @@ Vegetable Datasets are created using mobile camera and fruits dataset are taken 
 
 <h3>Final Result</h3>
 <br>
+<strong>On Console</strong>
 <img src="result/ginger.png">
 <img src="result/ginger_result.png">
+<strong>On Mobile Phone</strong>
+<img src="result/output8.png">
+<img src="result/output9.png">
 
 The train accuracy was 99.14%, validation accuracy was 96.06% and the test accuracy was 98.79%.<br>
 
