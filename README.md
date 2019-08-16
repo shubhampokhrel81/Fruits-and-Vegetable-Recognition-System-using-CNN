@@ -2,7 +2,7 @@
 <h2>Description:</h2> It is a fruits and vegetable recognition system using CNN and provide the recipe suggestions to the user. User can click vegetable or fruit image using this app. This CNN model predicts the provided image and gives the available recipe suggestions as well as the procedures. 
 <img src="result/output8.png"><img src="result/output9.png">
 
-<strong>Abstract</strong>
+<strong>Abstract</strong><br>
 This project entitled “Fruits and Vegetable Recognition system with Recipe using CNN” is an
 Artificial Intelligence based image recognition system which uses the images of the fruits
 and vegetables taken by the user‟s mobile device (camera) to recognize it and provide recipe.
@@ -66,9 +66,14 @@ Vegetable Datasets are created using mobile camera and fruits dataset are taken 
 ###Use Case Diagram<br>
 <img src="result/use_case.png">
 
-###Final Result on console
-<img src="result/ginger.png" alt="Input Image"><br>
-<img src="result/ginger_result.png" alt="Final Result">
+<h3>Final Result</h3>
+<br>
+<strong>On Console</strong>
+<img src="result/ginger.png">
+<img src="result/ginger_result.png">
+<strong>On Mobile Phone</strong>
+<img src="result/output8.png">
+<img src="result/output9.png">
 
 The train accuracy was 99.14%, validation accuracy was 96.06% and the test accuracy was 98.79%.<br>
 
