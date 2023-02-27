@@ -78,5 +78,5 @@ Vegetable Datasets are created using mobile camera and fruits dataset are taken 
 The train accuracy was 99.14%, validation accuracy was 96.06% and the test accuracy was 98.79%.<br>
 
 <br>
-Vegetable Dataset that I created is available on kaggle. Link is given below.
-<strong><a href = https://www.kaggle.com/datasets/shubhampokhrel81/vegetables360-dataset">Vegetable Dataset</a></strong>
+Vegetable Dataset that I created is available on kaggle. Link is given below.<br>
+<strong><a href = https://www.kaggle.com/datasets/shubhampokhrel81/vegetables360-dataset>Vegetable Dataset</a></strong>
